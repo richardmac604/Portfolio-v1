@@ -17,7 +17,7 @@ const About = () => {
               <p>Hi. I'm Richard Mac, Please take a look around.</p>
             </div>
             <div>
-              <p>I am a new graduate developer passionate about building software. Experienced with front
+              <p>I am a new graduate software developer passionate about building software. Experienced with front
                 and back end development with small businesses. Always looking for opportunities to learn and grow 
                 everyday. </p>  
             </div>
