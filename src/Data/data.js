@@ -1,55 +1,52 @@
+import CartoonOne from '../assets/cartoonOne.avif';
+import CartoonTwo from '../assets/cartoonTwo.avif';
+import CartoonThree from '../assets/cartoonThree.avif';
+import CartoonFour from '../assets/cartoonFour.avif';
+import CartoonFive from '../assets/CartoonFive.jpg';
+import CartoonSix from '../assets/cartoonSix.jpg';
+
+
 export const data = [ 
     {
         id:1,
         name:"Nature Go",
-        //image:WorkIm,
+        image:CartoonOne,
         github:"github.com/kialoenn/COMP-2800-Team-BBY-25-NatureGO",
 
     },
     {
         id:2,
         name:"Inter Explore",
-        //image:RealEst,
+        image:CartoonTwo,
         github:"github.com/richardmac604/inter-explore",
 
     },
     {
         id:3,
         name:"RDNKN",
-        //image:WorkIm,
+        image:CartoonThree,
         github:"rdnkn.ca",
 
     },
     {
         id:4,
         name:"PUGMA ULTIMA",
-        //image:RealEst,
-        github:"github.com/richardmac604/PUGNA_ULTIMA",
-    },
-    {
-        id:4,
-        name:"PUGMA ULTIMA",
-        //image:RealEst,
+        image:CartoonFour,
         github:"github.com/richardmac604/PUGNA_ULTIMA",
     },
     {
         id:5,
         name:"Fit Wo",
-        //image:RealEst,
+        image:CartoonFive,
         github:"github.com/winter2022-comp3717/project-fitwo",
     },
     {
         id:6,
         name:"Sleepless Knights",
-        //image:RealEst,
+        image:CartoonSix,
         github:"github.com/Sorumoru/sleepless-knights",
     },
-    {
-        id:7,
-        name:"PUGMA ULTIMA",
-        //image:RealEst,
-        github:"github.com/richardmac604/PUGNA_ULTIMA",
-    },
+ 
 
 
 ]
